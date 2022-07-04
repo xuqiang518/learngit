@@ -1,2 +1,2 @@
 Git is a distributed version control system
-Git is tree software
+Git is tree software distributed under the GPL
