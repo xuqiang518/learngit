@@ -2,3 +2,4 @@ hello git
 add hello git
 add int hot-fix
 mast test
+hot-fix test
